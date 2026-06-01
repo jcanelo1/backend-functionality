@@ -1,5 +1,5 @@
 # backend-functionality
-a lightweight full-stack notes application built using php, SQLite, HTML, and JavaScript. 
+A lightweight full-stack notes application built using php, SQLite, HTML, and JavaScript. 
 
 This project demonstrates a simple REST-style backend API that accepts form submissions from froentend interface and stores the data in a local SQLite database.
 
